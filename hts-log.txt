@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 31 Oct 2020 08:22:34 at https://vicmart.salescabal.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://vicmart.salescabal.com/ -O1 "C:\My Web Sites\zeus" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:23:26	Error: 	"Not Found" (404) at link https://vicmart.salescabal.com/store/alpha/images/gradient/g30.png (from https://vicmart.salescabal.com/store/alpha/css/style.min.css)
+08:23:26	Error: 	"Not Found" (404) at link https://vicmart.salescabal.com/store/alpha/images/gradient/g40.png (from https://vicmart.salescabal.com/store/alpha/css/style.min.css)
+08:23:26	Error: 	"Not Found" (404) at link https://vicmart.salescabal.com/store/alpha/images/custom/bg-discount.png (from https://vicmart.salescabal.com/store/alpha/css/style.min.css)
+08:23:26	Error: 	"Not Found" (404) at link https://vicmart.salescabal.com/store/alpha/images/skin-carsshop/menu-bg-01.jpg (from https://vicmart.salescabal.com/store/alpha/css/style.min.css)
+08:23:26	Error: 	"Not Found" (404) at link https://vicmart.salescabal.com/store/alpha/images/custom/contact-img-01.jpg (from https://vicmart.salescabal.com/store/alpha/css/style.min.css)
+08:23:26	Error: 	"Not Found" (404) at link https://vicmart.salescabal.com/store/alpha/images/custom/comingsoon-img-01.jpg (from https://vicmart.salescabal.com/store/alpha/css/style.min.css)
+08:23:26	Error: 	"Not Found" (404) at link https://vicmart.salescabal.com/store/alpha/images/custom/tt-gift-box-border2.png (from https://vicmart.salescabal.com/store/alpha/css/style.min.css)
+08:23:26	Error: 	"Not Found" (404) at link https://vicmart.salescabal.com/store/alpha/images/custom/tt-gift-box-border1.png (from https://vicmart.salescabal.com/store/alpha/css/style.min.css)
+08:23:26	Error: 	"Not Found" (404) at link https://vicmart.salescabal.com/store/alpha/images/custom/wrapper-section-01.jpg (from https://vicmart.salescabal.com/store/alpha/css/style.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 52 seconds : 59 links scanned, 49 files written (2824885 bytes overall) [2694397 bytes received at 51815 bytes/sec], 308323 bytes transferred using HTTP compression in 15 files, ratio 25%, 13.0 requests per connection
+(9 errors, 0 warnings, 0 messages)
